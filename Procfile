@@ -1,1 +1,1 @@
-web: gunicorn mustworkApp.wsgi
+web: gunicorn mustwork.wsgi
